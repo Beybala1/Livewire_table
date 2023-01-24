@@ -1,4 +1,4 @@
-<h2><Laravel Livewire table/h2>
+<h2><Laravel Livewire table</h2>
 
 1.Run git clone
 
